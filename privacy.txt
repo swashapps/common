@@ -1,0 +1,7 @@
+PERMISSIONS:
+Internet: To fetch real time transit data. 
+Location: To get departures near you. 
+Storage: To download transit network plans for offline use
+
+PRIVACY:
+The application does not ask, store or use any personal information.
