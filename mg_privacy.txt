@@ -1,0 +1,11 @@
+PERMISSIONS:
+Contacts: The application does not read your contacts. They are read by the system to share your game progress with your contacts. 
+
+Photos/Media/Files: To store and retrieve game images. The application does not access any images or files other than its own.
+
+Storage: To store game preferences and retrieve them to give best game experience.
+
+Internet: To share game progress with your contacts.
+
+PRIVACY:
+This application does not access any of your personal information.
