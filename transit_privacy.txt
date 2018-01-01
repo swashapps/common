@@ -1,0 +1,9 @@
+PERMISSIONS
+
+Location / GPS: To get stations and departures near you. 
+Storage: To store offline transit data, your favorite places and routes.
+
+
+PRIVACY
+
+The application does not ask, store or use any personal information.
