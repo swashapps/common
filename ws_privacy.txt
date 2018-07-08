@@ -1,0 +1,2 @@
+PRIVACY:
+This application does not access any of your personal information.
